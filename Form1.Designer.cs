@@ -68,7 +68,7 @@
             ForeColor = SystemColors.ControlText;
             Margin = new Padding(3, 2, 3, 2);
             Name = "Form1";
-            Text = "Dmanh xingaiquav";
+            Text = "Dmanh xingaiquavay";
             Load += Form1_Load;
             ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();
             ResumeLayout(false);
